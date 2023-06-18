@@ -1,0 +1,37 @@
+# Arquivos e pastas específicos do PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Bytecode Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+ENV/
+
+# Arquivos de log
+*.log
+
+# Arquivos gerados
+dist/
+build/
+*.egg-info/
+
+# Arquivos de configuração
+*.cfg
+*.conf
+
+# Arquivos de backup
+*~
+*.bak
+*.swp
+*.swo
+
+# Outros
+.DS_Store
+Thumbs.db
